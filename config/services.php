@@ -43,7 +43,7 @@ return [
         'client_secret' => env('LOGIN_CLIENT_SECRET'),
         'redirect'      => env('LOGIN_CALLBACK_URL'),
     ],
-    
+
     'eveonline' => [
         'client_id'     => env('EVE_CLIENT_ID'),
         'client_secret' => env('EVE_CLIENT_SECRET'),
